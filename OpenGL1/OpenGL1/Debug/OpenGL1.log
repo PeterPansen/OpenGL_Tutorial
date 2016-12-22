@@ -1,0 +1,11 @@
+﻿Der Buildvorgang wurde am 16.10.2016 22:50:16 gestartet.
+     1>Projekt "c:\Users\Andreas\documents\visual studio 2013\Projects\OpenGL1\OpenGL1\OpenGL1.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\OpenGL_Common\glfw-3.2.1.bin.WIN64\include" /AI"C:\OpenGL_Common\glew-2.0.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\andreas\documents\visual studio 2013\projects\opengl1\opengl1\main.cpp(2): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "GL/glew.h": No such file or directory
+     1>Die Erstellung des Projekts "c:\Users\Andreas\documents\visual studio 2013\Projects\OpenGL1\OpenGL1\OpenGL1.vcxproj" ist abgeschlossen, Build Ziel(e) -- FEHLER.
+
+Fehler beim Buildvorgang.
+
+Verstrichene Zeit 00:00:02.22
